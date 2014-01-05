@@ -16,3 +16,6 @@ var output = schnurrbart("{{name}} schreib {{schreib('hdr', 'msg')}}", model);
 ```
 
 In this example, the `schnurrbart` function takes two parameters: 1) the schnurrbart template and 2) a `model` object that contains the data and code needed to render the template.
+
+-
+published under the liberal terms of the BSD License, see the [LICENSE](LICENSE) file.
